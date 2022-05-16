@@ -1,0 +1,33 @@
+header {
+   background-color: black;
+   margin-bottom: 10px;
+}
+
+a.menu {
+   color: white;
+}
+
+img.slider {
+   width: 45%;
+}
+
+
+.slider-div {
+   text-align: center;
+}
+
+p {
+   text-align: justify;
+   word-spacing: 2px;
+   margin-bottom: 1.3em;
+   
+}
+
+footer {
+   background-color: black;
+   text-align: center;
+   font-size: .7em;
+   color: white;
+   line-height: 1.4em;
+}
+
